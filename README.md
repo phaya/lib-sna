@@ -1,2 +1,1 @@
-author: Pablo A. Haya, pablohaya@gmail.comR
-=
+author: Pablo A. Haya, pablohaya@gmail.com
